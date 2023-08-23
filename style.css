@@ -2,6 +2,12 @@ h1 {
     text-align: center;
 }
 
+.section-one{
+    display: flex;  
+   justify-content: center;
+   align-items: center;
+}
+
 .container {
     width: 250px;
     min-height: 50px;
@@ -10,6 +16,7 @@ h1 {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+    
 }
 
 img {
